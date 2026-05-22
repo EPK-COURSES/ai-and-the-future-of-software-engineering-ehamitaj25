@@ -77,3 +77,33 @@ AI-generated code or AI-supported decisions can create risks. For example, AI to
 AI cannot be fully responsible for the consequences of software. Human developers, teams, and organizations remain responsible for the systems they design and deploy. This means engineers must ask ethical questions such as: Is this system safe? Does it protect user data? Could it treat people unfairly? Can users understand or challenge automated decisions?
 
 Ethical reasoning is difficult to replace because it requires responsibility, values, empathy, and awareness of social impact. In the future, software engineers will need to be not only technically skilled but also ethically aware. Using AI responsibly means understanding its limits and making sure human judgment remains part of important decisions.
+
+## Decision Making
+
+Decision making remains a key skill in software engineering because developers constantly choose between different technical and practical options. These decisions may involve programming languages, frameworks, database designs, security approaches, performance trade-offs, deadlines, and user needs.
+
+AI can provide suggestions, but it cannot always understand the full context of a project. A technically correct solution may not be the best solution for a specific company, team, budget, or user group. Human engineers must evaluate trade-offs and decide which option is most realistic, maintainable, and useful.
+
+Good decision making also requires understanding risk. For example, a developer may need to decide whether to use a fast temporary solution or invest more time in a cleaner long-term design. AI may generate possible answers, but humans must judge the consequences of each choice.
+
+In the AI era, decision making becomes even more important because engineers must also decide how much they can trust AI-generated suggestions. Developers need to review outputs carefully, compare alternatives, and take responsibility for the final result.
+
+## Client Interaction
+
+Client interaction is another skill that remains difficult for AI to replace. Many software projects begin with clients or users who have a problem but cannot describe the exact technical solution they need. Software engineers must listen carefully, ask questions, clarify expectations, and translate business needs into technical requirements.
+
+AI can help write documents or suggest requirement formats, but it cannot fully replace human conversation with clients. Clients may express uncertainty, change their minds, misunderstand technical limitations, or prioritize different goals during the project. Human developers must manage these situations with patience, empathy, and clear explanation.
+
+Strong client interaction helps prevent project failure. If developers misunderstand what the client wants, the final software may be technically correct but practically useless. For this reason, communication with clients is not a small part of software engineering; it directly affects the success of the final product.
+
+In the AI era, engineers who can connect technical knowledge with client needs will remain valuable. They will act as interpreters between business problems, user expectations, and AI-supported development tools.
+
+## Systems Thinking
+
+Systems thinking is one of the most valuable skills for future software engineers. It means understanding how different parts of a software system work together instead of looking only at individual lines of code. A developer with systems thinking considers architecture, databases, APIs, security, user experience, scalability, maintenance, and business goals.
+
+AI tools are useful for generating isolated pieces of code, but software systems are much more complex than single functions. A small change in one part of a system can affect performance, security, user experience, or other connected components. Human engineers must understand these relationships before making important changes.
+
+Systems thinking also helps developers avoid short-term solutions that create long-term problems. AI-generated code may solve an immediate task, but it may not fit well with the overall architecture of the project. Engineers must evaluate whether a solution is maintainable, scalable, and consistent with the system’s design.
+
+As AI becomes more common in software development, systems thinking will become even more important. Developers will need to guide AI tools, review their outputs, and ensure that generated solutions fit into larger software environments. This makes systems thinking one of the strongest human skills that remains difficult to replace.
