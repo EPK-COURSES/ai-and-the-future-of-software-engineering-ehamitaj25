@@ -15,3 +15,7 @@
 7. IEEE Xplore Digital Library. Research articles related to AI and software engineering. https://ieeexplore.ieee.org/
 
 8. ACM Digital Library. Research on software engineering and artificial intelligence. https://dl.acm.org/
+
+9. OpenAI. Research and discussions about AI systems and software development. https://openai.com/
+
+10. Reddit software engineering discussions related to AI and programming careers. https://www.reddit.com/

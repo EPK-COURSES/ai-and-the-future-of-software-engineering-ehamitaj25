@@ -108,3 +108,47 @@ AI tools are good for generating pieces of code.. Software systems are complex. 
 Systems thinking helps developers avoid fixes. These quick fixes can create problems later. AI-generated code may solve a task. It may not fit with the projects overall plan. Engineers must check if a solution is maintainable, scalable and consistent with the systems design.
 
 As AI becomes more common in software development systems thinking will become more important. Developers will need to guide AI tools. They will need to review what these tools produce. They must ensure that generated solutions fit, into software environments. This makes systems thinking a human skill. It is one that's hard to replace with AI.
+
+## Future of Software Engineering
+
+The future of software engineering will likely involve working with artificial intelligence tools.
+
+Human developers and AI will collaborate to create software.
+
+AI will get better at generating code finding bugs, testing and automating tasks.
+
+This will help developers work efficiently and focus on more important tasks.
+
+However this does not mean software engineers will lose their jobs.
+
+Their role will. They will focus more on communication, designing software architecture and making decisions.
+
+AI will handle more of the technical tasks.
+
+Software engineers will need to keep learning technologies and developing strong people skills.
+
+They will need to understand AI tools and be able to work with others.
+
+Engineers who know both human skills will be very valuable.
+
+AI is a tool that can help software engineers.
+
+It is not a replacement for them.
+
+Human developers bring judgment, responsibility, innovation and understanding of needs to software engineering.
+
+The future of software engineering will depend on developers and AI working together.
+
+It will not be a competition, between them. A collaboration.
+
+Software engineers and AI will work together to create software.
+
+This collaboration will drive the future of software engineering.
+
+## Conclusion  
+
+Artificial intelligence is changing the way we do software engineering by doing the technical work for us. These days developers use intelligence tools to help them code find mistakes, test, write documents and get more work done.. Even with all these advances there are still some important skills that software engineers need that artificial intelligence cannot do.
+
+Things like talking to people working in a team being a leader being creative making decisions dealing with clients and understanding how systems work are all hard for artificial intelligence to replace. This is because they need us to understand peoples feelings be responsible know what is going on and make judgments. Software engineering is not about writing code it is also about understanding people solving problems that happen in real life and making big decisions.
+
+In the future software engineering will probably be about people and artificial intelligence systems working together not one replacing the other. The engineers who learn to use technologies and also get better at skills that are important to people will be very important in the industry. That is why the best software engineers in the time of intelligence will be good at technology but also good, at thinking carefully talking to people effectively and understanding how technology affects everything.   
